@@ -8,3 +8,4 @@ Supports the following web browsers:
 - Firefox
 - Opera
 - Safari
+- Internet Explorer
