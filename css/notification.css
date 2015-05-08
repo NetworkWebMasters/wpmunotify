@@ -54,7 +54,7 @@
 /*Notification alert box*/
 .wpmunotify_noti {
 	width: 245px;
-	margin: 50px;
+	margin: 30px;
 	padding: 10px;
 	position: fixed;
 	bottom: 0;
@@ -115,7 +115,7 @@
 
 /*Notification alert box content*/
 .wpmunotify_noti_content p {
-	width: 150px; 
+	width: 170px; 
 	margin: 0;
 	padding: 0 5px 10px 5px;
 }
