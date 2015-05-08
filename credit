@@ -1,0 +1,24 @@
+##########################################################################################
+# WPMU Notify would like to give a special thank you to the (below) people/organization, #
+# because without their contributions, WPMU Notify would not of been born. Thank you!    #
+##########################################################################################
+
+= Barrett Palmer =
+Barrett wrote the article that inspired this plugin.
+[GPL 2.0] http://www.rrpowered.com/license
+
+= The jQuery Foundation =
+jQuery a dependency that makes our Javascript work.
+[GPL 2.0] https://jquery.org/license/
+
+= The WordPress Codex =
+The WordPress Codex was instrumental in the assembly of this plugin.
+[GPL 2.0] https://wordpress.org/about/license/
+
+= Universitat Pompeu Fabra (ie: freesound.org) =
+A collaborative database of Creative Commons Licensed sounds.
+[CC 3.0] http://creativecommons.org/licenses/by-nc/3.0/
+
+= IcoMoon =
+Used within the plugin, mainly used to generate action_type icons.
+[CC 4.0] http://creativecommons.org/licenses/by/4.0/
